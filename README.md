@@ -1,4 +1,4 @@
-![MasterHead](https://www.castsoftware.com/hubfs/Abstract-polygonal-light-of-sprout-from-earth-1200x600.png)
+![MasterHead](https://www.cortical.io/wp-content/uploads/Green-Software-1024x429.jpg)
 <h1 align="center">Hi 👋, I'm Eduard</h1>
 <h3 align="center">A passionate Junior Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif"
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **the Java universe**
+- 🌱 I’m currently exploreing **the Java universe**
 
 
 
